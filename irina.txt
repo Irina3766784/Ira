@@ -1,1 +1,3 @@
 Сегодня хорошая погода!
+The weather is nice today!
+
